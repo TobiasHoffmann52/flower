@@ -52,7 +52,7 @@ function solsikke(x, y) {
 
 
   fill(66, 51, 10);
-  ellipse(0, 0, 175, 175);
+  ellipse(0, 0, 120, 120);
 
   rotate(frameCount/4);
 
